@@ -47,7 +47,7 @@ int main(){
     (*freshman).gpa = 4.05;
     (*freshman).name = malloc(sizeof(char) * 50);
     (*freshman).major = malloc(sizeof(char) * 50);
-    strcpy((*freshman).name, "Alex Zafar");
+    strcpy((*freshman).name, "John Doe");
     strcpy((*freshman).major, "Math");
     
     // print the student name using the pointer

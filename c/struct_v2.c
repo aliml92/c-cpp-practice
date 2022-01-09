@@ -27,7 +27,7 @@ int main(){
     // assign values to the student variable
     student.age = 31;
     student.gpa = 3.9;
-    student.name = "Alisher Muzaffarov"; // i don't know why this is working
+    student.name = "John Doe"; // i don't know why this is working
     student.major = "Computer Science";  // i don't know why this is working
     
 
@@ -36,7 +36,7 @@ int main(){
     freshman.gpa = 3.9;
     freshman.name = malloc(sizeof(char) * 50);
     freshman.major = malloc(sizeof(char) * 50);
-    strcpy(freshman.name, "Alisher Muzaffarov");
+    strcpy(freshman.name, "John Doe");
     strcpy(freshman.major, "Computer Science");
 
     // print the freshman variable

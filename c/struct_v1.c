@@ -36,7 +36,7 @@ int main() {
     // assign values to the student variable
     employee.age = 31;
     employee.salary = 140.0;
-    strcpy(employee.name, "Alisher Muzaffarov");
+    strcpy(employee.name, "John Doe");
     strcpy(employee.team, "Google Brain");
 
     // print the student variable
