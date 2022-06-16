@@ -1,1 +1,1 @@
-# C/C++ snippets 
+# C/C++ practice
